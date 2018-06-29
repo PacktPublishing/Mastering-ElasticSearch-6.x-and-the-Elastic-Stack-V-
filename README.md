@@ -21,9 +21,7 @@ Throughout the course, students will go from a beginner to a master of Elastic S
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
 The course is for developers and system administrators who want to begin storing data in a cost-effective manner and want to leverage the functionality of the Elastic Stack. People with job titles such as Software Developer, Systems or Solutions Architect, System Administrator, DevOps Engineer, and so on will also be particularly interested in this course. Additionally, managers and directors in technology organizations will be able to understand the concepts and discuss them knowledgeably without breaking the budget.	
-### Technical Requirements
-This course has the following software requirements:<br/>
-...
+
 
 ## Related Products
 * [ElasticSearch, LogStash, Kibana ELK #1 - Learn ElasticSearch [Video]](https://www.packtpub.com/networking-and-servers/elasticsearch-logstash-kibana-elk-1-learn-elasticsearch-video?utm_source=github&utm_medium=repository&utm_campaign=9781788999816)
