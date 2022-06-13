@@ -1,7 +1,3 @@
-## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/V10010?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
------
-For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
-
 # Mastering-ElasticSearch-6.x-and-the-Elastic-Stack-V-
 Code repo for- "Mastering ElasticSearch 6.x and the Elastic Stack (V)",  Published by Packt
 This is the code repository for [Mastering ElasticSearch 6.x and the Elastic Stack [Video]](https://www.packtpub.com/web-development/mastering-elasticsearch-6x-and-elastic-stack-video?utm_source=github&utm_medium=repository&utm_campaign=9781788991155), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
